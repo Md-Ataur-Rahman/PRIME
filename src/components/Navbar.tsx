@@ -106,7 +106,7 @@ export function Navbar() {
         </ul>
         {/* Mobile Register Button */}
         <div className="px-6 pb-5">
-          <a href="#registrationCard" rel="noopener noreferrer">
+          <a href="#registrationCard" onClick={() => setOpen(false)} rel="noopener noreferrer">
             <Button className="w-full justify-center px-5 py-2.5 cursor-pointer">
               Register Now
               <ArrowRight className="h-4 w-4" />
