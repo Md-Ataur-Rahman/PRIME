@@ -47,14 +47,11 @@ export function RegistrationCards() {
       <section className="bg-white py-20 sm:py-24" id="registrationCard">
         <Container>
           <SectionHeading
-            eyebrow="The faculty"
+            eyebrow="Call for Abstracts"
             title={
               <>
-                Mentors who still
-                <em className="text-gold-deep"> do the work.</em>
               </>
             }
-            subtitle="Clinics are led by researchers who publish, review, and sit on ethics boards — not by generic course hosts."
           />
           {/* Cards */}
           <div className="my-14 grid gap-10 sm:grid-cols-2">

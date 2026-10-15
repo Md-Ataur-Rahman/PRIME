@@ -8,7 +8,7 @@ const MENTORS = [
     img: "/teacher/Dean_Sir.jpg",
   },
   {
-    name: "Assistant Prof. Md. Maidul Islam",
+    name: "Associate Prof. Md. Maidul Islam",
     title: "Management Chair",
     bio: "Coordinator & Mentor, IEEE EUSB. Associate Professor, Department of EEE, Eastern University",
     img: "/teacher/Maidul_sir.jpeg",

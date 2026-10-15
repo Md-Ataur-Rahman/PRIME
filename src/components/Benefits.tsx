@@ -31,14 +31,13 @@ export function Benefits() {
     <section className="bg-white py-20 sm:py-24" id="benefits">
           <Container>
             <SectionHeading
-              eyebrow="The faculty"
+              eyebrow="Looking back to Prime 1.0"
               title={
                 <>
-                  Mentors who still
-                  <em className="text-gold-deep"> do the work.</em>
+                  Principles of 
+                  <em className="text-gold-deep"> Principles of Research & Method Essentials 2025</em>
                 </>
               }
-              subtitle="Clinics are led by researchers who publish, review, and sit on ethics boards — not by generic course hosts."
             />
               <div className="my-14 grid gap-5 sm:grid-cols-3">
               {BANNERS.map((banner, i) => (

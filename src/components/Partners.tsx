@@ -66,7 +66,7 @@ export function Partners() {
     <section className="bg-white py-14 sm:py-16">
       <Container>
         <Reveal>
-          <p className="text-center text-[11px] font-semibold uppercase tracking-[0.28em] text-navy-muted my-8">
+          <p className="text-center text-[11px] font-semibold uppercase tracking-[0.28em] text-navy-muted py-8">
             Collaborated By
           </p>
         </Reveal>
