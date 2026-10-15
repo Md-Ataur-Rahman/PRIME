@@ -5,13 +5,13 @@ import { PiArrowRightBold } from "react-icons/pi";
 const REGISCARD = [
   {
     id: 1,
-    img: "../../public/poster/call_abstract.jpg",
+    img: "/poster/call_abstract.jpg",
     destination: "https://docs.google.com/forms/d/e/1FAIpQLSccUCd2PL7ILQPkBBLBWR8IvkQ-SLwwpD2SjGoPOND5C7VSZw/viewform",
     btnName: "Participant Registration"
   },
   {
     id: 2,
-    img: "../../public/poster/call_abstract.jpg",
+    img: "/poster/call_abstract.jpg",
     destination: "https://docs.google.com/forms/d/e/1FAIpQLSfYaC4oyIiccNZp4eHPf8z-hMa33Vut-mUD0SdUYHbkQ-6o7w/viewform?usp=header",
     btnName: "Abstract Registration"
   },
