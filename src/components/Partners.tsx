@@ -3,60 +3,60 @@ import { Container, Reveal } from "./ui";
 const images = [
   {
     id: 1,
-    image: "/public/uni_partners/Blue_RUSB.png"
+    image: "uni_partners/Blue_RUSB.png"
   },
   {
     id: 2,
-    image: "/public/uni_partners/IEEE_BUP.png"
+    image: "uni_partners/IEEE_BUP.png"
   },
   {
     id: 3,
-    image: "/public/uni_partners/IEEE_CS_IEEE_CS_BUBT_SB_Chapter.png"
+    image: "uni_partners/IEEE_CS_IEEE_CS_BUBT_SB_Chapter.png"
   },
 
   {
     id: 4,
-    image: "/public/uni_partners/IEEE_DIU_SB_WIE_AFFINITY_GROUP.jpg"
+    image: "uni_partners/IEEE_DIU_SB_WIE_AFFINITY_GROUP.jpg"
   },
   {
     id: 5,
-    image: "/public/uni_partners/IEEE_IIUC.jpeg"
+    image: "uni_partners/IEEE_IIUC.jpeg"
   },
   {
     id: 6,
-    image: "/public/uni_partners/IEEE_PES_DIU_Student_Branch_Chapter.jpg"
+    image: "uni_partners/IEEE_PES_DIU_Student_Branch_Chapter.jpg"
   },
   {
     id: 7,
-    image: "/public/uni_partners/IEEE_PES_IIUC.png"
+    image: "uni_partners/IEEE_PES_IIUC.png"
   },
   {
     id: 8,
-    image: "/public/uni_partners/IEEE_SB_IEEE_Student_Branch_GUB.png"
+    image: "uni_partners/IEEE_SB_IEEE_Student_Branch_GUB.png"
   },
   {
     id: 9,
-    image: "/public/uni_partners/IEEE_SIGHT_DIU.png"
+    image: "uni_partners/IEEE_SIGHT_DIU.png"
   },
   {
     id: 10,
-    image: "/public/uni_partners/IEEESB_Logo_IEEE_IUBAT_Student_Branch.png"
+    image: "uni_partners/IEEESB_Logo_IEEE_IUBAT_Student_Branch.png"
   },
   {
     id: 11,
-    image: "/public/uni_partners/logo_CS_EEE_CS_BUBT_SB_Chapter.png"
+    image: "uni_partners/logo_CS_EEE_CS_BUBT_SB_Chapter.png"
   },
   {
     id: 12,
-    image: "/public/uni_partners/PUBLIC_HEALTH_EU.jpg"
+    image: "uni_partners/PUBLIC_HEALTH_EU.jpg"
   },
   {
     id: 13,
-    image: "/public/uni_partners/VAC_LOGO_Visual_Archive_Club.png"
+    image: "uni_partners/VAC_LOGO_Visual_Archive_Club.png"
   }, 
   {
     id: 14,
-    image: "/public/uni_partners/wie_final_logo_RU.jpg"
+    image: "uni_partners/wie_final_logo_RU.jpg"
   },
 ]
 
