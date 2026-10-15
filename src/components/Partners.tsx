@@ -67,7 +67,7 @@ export function Partners() {
       <Container>
         <Reveal>
           <p className="text-center text-[11px] font-semibold uppercase tracking-[0.28em] text-navy-muted my-8">
-            Organized By
+            Collaborated By
           </p>
         </Reveal>
       </Container>
